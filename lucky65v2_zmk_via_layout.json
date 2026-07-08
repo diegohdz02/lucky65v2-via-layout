@@ -1,4 +1,4 @@
-﻿{
+{
     "name":  "Lucky65V2_ZMK_Lily58_Port",
     "vendorProductId":  875422727,
     "macros":  [
@@ -77,7 +77,7 @@
                        "KC_W",
                        "KC_V",
                        "KC_Z",
-                       "MT(MOD_RSFT, KC_ESC)",
+                       "MT(MOD_RSFT,KC_ESC)",
                        "KC_UP",
                        "KC_SLSH",
                        "KC_NO",
@@ -98,7 +98,7 @@
                        "KC_MUTE"
                    ],
                    [
-                       "QK_BOOT",
+                       "RESET",
                        "CUSTOM(0)",
                        "CUSTOM(1)",
                        "CUSTOM(2)",
